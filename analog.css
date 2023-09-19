@@ -76,8 +76,7 @@ a.on {
 }
 
 .content {
-     position: relative;
-     left: 300px;
+     margin: 0pc auto 0px auto;
      width: 665px;
      height: 320px; 
      background-color: #E3DFFD;
